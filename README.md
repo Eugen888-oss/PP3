@@ -141,13 +141,13 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    To mark italics, you must use a * symbol before and after the text, for bold **bold** and for both three ***italic bold***
+         To mark italics, you must use a * symbol before and after the text, for bold **bold** and for both three ***italic bold***
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    This can be done with the symbols "|" and "-" which separates the entries
+         This can be done with the symbols "|" and "-" which separates the entries
     </code>
 </details>
 
